@@ -1,6 +1,6 @@
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = ''
+API_TOKEN = 'topolmaysan'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
